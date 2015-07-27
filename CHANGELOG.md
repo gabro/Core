@@ -1,5 +1,14 @@
 # CocoaPods Core Changelog
 
+## Master
+
+##### Enhancements
+
+* Support converting objects of arbitrary classes to YAML.  
+  [Samuel Giddins](https://github.com/segiddins)
+  [CocoaPods#3907](https://github.com/CocoaPods/CocoaPods/issues/3907)
+
+
 ## 0.38.2
 
 ##### Bug Fixes
